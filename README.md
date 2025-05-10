@@ -1,8 +1,8 @@
 # CISC3003 - Team 09 - Individual Project - 2025
 ## DC227476 KUAN HOU IN
 > **Create database**
-1. Create a database called shop_dp on phpMyAdmin
-2. Import the shop_db.sql on shop_dp
+1. Create a database called shop on MySQL
+2. Import the shop.sql on shop
 
 > **Install project files**
 1. Create a new folder
