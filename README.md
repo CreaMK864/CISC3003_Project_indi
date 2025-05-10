@@ -11,6 +11,3 @@
 4. Create a new PHP project
 5. Import folder components, css, js and uploader_images
 6. Import file add_product.php, checkout.php, orders.php, shopping_cart.php, view_order.php and view_products.php
-
-> **GitHub link**
-https://github.com/CreaMK864/CISC3003_Project_indi
