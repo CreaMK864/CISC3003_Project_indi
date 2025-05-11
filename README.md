@@ -3,6 +3,7 @@
 > **Create database**
 1. Create a database called shop on MySQL
 2. Import the shop.sql on shop
+3. go to connect.php change to your db_name and your user_name and your user_password.
 
 > **Install project files**
 1. Create a new folder
